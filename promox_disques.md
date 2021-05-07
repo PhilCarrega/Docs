@@ -1,3 +1,13 @@
+# Zpool
+
+## Création d'un pool
+
+## Ajout d'un disque
+* https://docs.oracle.com/cd/E53394_01/html/E54801/gayrd.html
+
+## Etendre un disque
+* https://memo-linux.com/proxmox-etendre-lespace-disque-avec-lvm/
+
 # Acces wmfs
 
 * Selon la version de vmWare :
